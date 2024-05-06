@@ -1,6 +1,6 @@
 {
   "name": "@rustjn/rust-lint",
-  "version": "1.0.80",
+  "version": "1.0.81",
   "description": "Description for rust-lint",
   "main": "src/index.js",
   "scripts": {
